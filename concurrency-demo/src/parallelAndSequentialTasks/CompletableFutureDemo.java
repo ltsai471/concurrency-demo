@@ -1,4 +1,4 @@
-package ParallelAndSequentialTasks;
+package parallelAndSequentialTasks;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
